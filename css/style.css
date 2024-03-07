@@ -4,8 +4,23 @@
         background-color: #FFFFFF;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
 ul {
    list-style: none; 
+    list-style-type: none;
+        margin-bottom: 0;
+        margin-top: 0;
+        padding-left: 0;
 }
 
 a {
@@ -16,6 +31,16 @@ button {
     cursor: pointer;
 }
 
+img {
+    display: block;
+}
+
+.container {
+    width: 1440px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: 0 auto;
+}
 .header-logo-web {
     font-family: "Raleway", sans-serif;
         font-size: 18px;
