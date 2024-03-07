@@ -43,7 +43,7 @@ img {
 }
 
 .header-container {
-    display: inline-block;
+    display: flex;
 }
 
 .header-logo-web {
