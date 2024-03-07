@@ -41,6 +41,11 @@ img {
         padding-right: 15px;
         margin: 0 auto;
 }
+
+.header-container {
+    display: flex;
+}
+
 .header-logo-web {
     font-family: "Raleway", sans-serif;
         font-size: 18px;
