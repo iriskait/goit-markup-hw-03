@@ -36,7 +36,7 @@ img {
 }
 
 .container {
-    width: 1440px;
+    width: 1158px;
         padding-left: 15px;
         padding-right: 15px;
         margin: 0 auto;
@@ -52,7 +52,8 @@ img {
         font-weight: 700;
         line-height: 1.17;
         letter-spacing: 0.03em;
-        color: #2e2f42;   
+        color: #2e2f42;
+        display: flex;
 }
 
 .header-logo {
@@ -63,6 +64,7 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    display: flex;
 }
 
 .header-menu-link {
@@ -71,6 +73,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    display: flex;
 }
 .header-menu-link:hover,
 .header-menu-link:focus {
@@ -79,6 +82,7 @@ img {
 
 .header-address {
     font-style: normal;
+    display: flex;
 }
 .header-address-link {
     font-size: 16px;
@@ -86,6 +90,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    display: flex;
 }
 
 .header-address-link:hover,
@@ -113,6 +118,7 @@ img {
     line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
+        display: flex;
 }
 
 .hero-btn-link:hover,
