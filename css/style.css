@@ -43,7 +43,7 @@ img {
 }
 
 .header-container {
-    display: flex;
+    display: inline-block;
 }
 
 .header-logo-web {
@@ -119,6 +119,7 @@ img {
         letter-spacing: 0.04em;
         color: #fff;
         display: flex;
+        border-radius: 4px;
 }
 
 .hero-btn-link:hover,
