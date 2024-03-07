@@ -43,6 +43,10 @@ img {
 }
 
 .header-container {
+    display: flex;
+}
+
+.header-navigation {
     display: inline-block;
 }
 
