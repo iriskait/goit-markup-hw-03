@@ -301,6 +301,7 @@ display: flex;
         letter-spacing: 0.02em;
         color: #434455;
         display: flex;
+        padding-bottom: 32px;
 }
 
 .headline {
@@ -347,6 +348,7 @@ display: flex;
         color: #f4f4fd;
         height: 72px;
         margin-top: 16px;
-        max-width: 264px
+        max-width: 264px;
+        padding-left: 156px;
     }
 
