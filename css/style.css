@@ -141,6 +141,7 @@ img {
     margin-right: 472px;
     margin-left: 472px;
     margin-bottom: 48px; 
+    max-width: 496px;
 }
 
 .hero-btn-link {
@@ -156,6 +157,13 @@ img {
         text-align: center;
         padding: 16px 32px 16px 32px;
         margin-bottom: 188px;
+}
+
+.button {
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
 }
 
 .hero-btn-link:hover,
