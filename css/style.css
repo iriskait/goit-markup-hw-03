@@ -163,7 +163,6 @@ img {
             min-width: 169px;
             height: 56px;
             border: none;
-            align-items: center;
 }
 
 .hero-btn-link:hover,
@@ -210,7 +209,8 @@ display: flex;
     margin-top: 120px;
     margin-bottom: 72px;
     text-align: center;
-    padding: 120px 0;
+    padding-top: 120px;
+     padding-bottom: 120px;
 }
 
 .subject-title {
@@ -223,14 +223,13 @@ display: flex;
     text-transform: capitalize;
     color: #2e2f42;
     display: flex;
-    margin-top: 120px;
-    margin-bottom: 72px;
 }
 
 .subject-list {
     display: flex;
     gap: 24px;
 }
+
 .subject-item {
     background-color: #FFFFFF;
     display: flex;
