@@ -145,10 +145,9 @@ img {
         color: #fff;
         display: flex;
         border-radius: 4px;
-        align-items: center;
         align-items: flex-end;
         padding: 16px 32px 16px 32px;
-
+        margin-bottom: 188px;
 }
 
 .hero-btn-link:hover,
@@ -163,8 +162,9 @@ img {
         letter-spacing: 0.02em;
         color: #2e2f42;
         display: flex; 
-        margin: 0 24px;   
-     
+        margin: 8 24px;
+
+}
 
 .features-text {
     font-size: 16px;
@@ -173,7 +173,7 @@ img {
         letter-spacing: 0.02em;
         color: #434455;
         display: flex;
-        margin: 0 24px;
+        margin: 8 24px;
 }
 
 .subject {
