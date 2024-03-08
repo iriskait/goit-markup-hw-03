@@ -188,15 +188,18 @@ display: flex;
         letter-spacing: 0.02em;
         color: #2e2f42;
         display: flex; 
+        margin-bottom: 8px;
 }
 
 .features-list {
     display: flex;
-    margin: 120px 156px;
     gap: 24px;
-    width: calc((100% - 72px) / 4);
 }
 
+.features-content {
+    margin: 120px 156px;
+    width: calc((100% - 72px) / 4);
+}
 .features-text {
     font-size: 16px;
     font-weight: 400;
