@@ -142,10 +142,9 @@ img {
     color: #fff;
     margin-top: 188px;
     margin-right: 472px;
+    margin-bottom: 48px;
     margin-left: 472px;
-    margin-bottom: 48px; 
-    max-width: 496px;
-    
+   max-width: 496px;
 }
 
 .hero-btn-link {
@@ -205,7 +204,6 @@ display: flex;
 
 .features-content {
     display: flex;
-    margin: 120px 156px;
     width: calc((100% - 72px) / 4);
 }
 .features-text {
