@@ -132,7 +132,7 @@ img {
     display: flex;
     text-align: center;
     color: #fff;
-    padding: 188px 472px;
+    padding: 188px 472px 292px 472px;
 }
 
 .hero-btn-link {
@@ -145,10 +145,7 @@ img {
         color: #fff;
         display: flex;
         border-radius: 4px;
-        padding-top: 356px;
-        padding-right: 635px;
-        padding-bottom: 188px;
-        padding-left: 636px;
+        padding: 356px 635px 188px 636;
         align-items: center;
 }
 
