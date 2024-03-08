@@ -173,7 +173,6 @@ img {
 .features {
 display: flex;
     padding: 120px 0;
-    margin-bottom: 8px;
 }
 
 .features-title {
@@ -192,6 +191,7 @@ display: flex;
 }
 
 .features-content {
+    display: flex;
     margin: 120px 156px;
     width: calc((100% - 72px) / 4);
 }
