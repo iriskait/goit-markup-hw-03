@@ -147,7 +147,6 @@ img {
         border-radius: 4px;
         align-items: flex-end;
         padding: 16px 32px 16px 32px;
-        margin-bottom: 188px;
 }
 
 .hero-btn-link:hover,
@@ -162,8 +161,7 @@ img {
         letter-spacing: 0.02em;
         color: #2e2f42;
         display: flex; 
-        margin: 8 24px;
-
+        margin: 0 24px;
 }
 
 .features-text {
@@ -173,11 +171,15 @@ img {
         letter-spacing: 0.02em;
         color: #434455;
         display: flex;
-        margin: 8 24px;
+        margin: 0 24px;
 }
 
 .subject {
     background-color: #F4F4FD;
+    display: flex;
+    margin-top: 120px;
+    margin-bottom: 72px;
+    text-align: center;
 }
 
 .subject-title {
@@ -189,8 +191,11 @@ img {
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
+    display: flex;
 }
-
+.subject-list {
+    display: flex;
+}
 .subject-item {
     background-color: #FFFFFF;
 }
