@@ -246,6 +246,7 @@ img {
         text-transform: capitalize;
         color: #2e2f42;
         display: flex;
+        margin-bottom: 72px;
 }
 .portfolio-list {
     display: flex;
@@ -285,6 +286,7 @@ img {
     }
 
     .footer-wrap {
+        height: 312px;
         padding-top: 100px;
         padding-right: 1020px;
         padding-bottom: 100px;
