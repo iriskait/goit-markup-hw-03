@@ -163,9 +163,9 @@ img {
         letter-spacing: 0.02em;
         color: #2e2f42;
         display: flex; 
-        margin: 0 24px;   
+        gap: 24px;
         padding-top: 120px;
-        padding-bottom: 120px;   
+        padding-bottom: 200px;   
 }
 
 .features-text {
@@ -175,7 +175,7 @@ img {
         letter-spacing: 0.02em;
         color: #434455;
         display: flex;
-        margin: 0 24px;
+        gap: 24px;
 }
 
 .subject {
