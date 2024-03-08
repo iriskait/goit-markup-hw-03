@@ -118,6 +118,10 @@ img {
 
 .hero {
     background-color: #2e2f42;
+    width: 1440px;
+        height: 600px;
+        display: flex;
+        align-items: center;
 }
 .hero-title {
     font-size: 56px;
@@ -138,6 +142,7 @@ img {
         color: #fff;
         display: flex;
         border-radius: 4px;
+        align-items: center;
 }
 
 .hero-btn-link:hover,
