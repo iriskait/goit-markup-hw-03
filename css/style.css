@@ -316,5 +316,8 @@ img {
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
+        height: 72px;
+        weight: 264px;
+        margin-top: 16px;
     }
 
