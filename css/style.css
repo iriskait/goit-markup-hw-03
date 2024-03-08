@@ -140,6 +140,8 @@ img {
     display: flex;
     text-align: center;
     color: #fff;
+    width: 496px;
+    height: 120px;
     margin-top: 188px;
     margin-right: 472px;
     margin-bottom: 48px;
@@ -158,7 +160,7 @@ img {
         border-radius: 4px;
         text-align: center;
         display: block;
-        margin: 0 auto;
+        margin: 0 635 188 636px;
             min-width: 169px;
             height: 56px;
             border: none;
