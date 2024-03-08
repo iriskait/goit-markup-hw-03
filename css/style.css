@@ -133,7 +133,7 @@ img {
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    display: flex;
+    display: block;
     text-align: center;
     color: #fff;
     margin-top: 188px;
@@ -150,7 +150,7 @@ img {
     line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
-        display: flex;
+        display: block;
         border-radius: 4px;
         align-items: flex-end;
         padding: 16px 32px 16px 32px;
