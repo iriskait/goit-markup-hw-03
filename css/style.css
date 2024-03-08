@@ -143,7 +143,7 @@ img {
     margin-top: 188px;
     margin-right: 472px;
     margin-left: 472px;
-    margin-bottom: 292px; 
+    margin-bottom: 48px; 
     max-width: 496px;
     
 }
@@ -172,7 +172,7 @@ img {
 
 .features {
 display: flex;
-    padding: 120px 0;
+    margin: 120px 0;
 }
 
 .features-title {
