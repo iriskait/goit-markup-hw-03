@@ -212,12 +212,12 @@ img {
 
 .subject-list {
     display: flex;
-    gap: 24px;
 }
 .subject-item {
     background-color: #FFFFFF;
     display: flex;
     margin-top: 72px;
+    width: calc((100% - 24px) / 3);
 }
 
 .subject-item-subtitle {
