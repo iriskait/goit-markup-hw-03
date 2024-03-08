@@ -146,6 +146,7 @@ img {
         display: flex;
         border-radius: 4px;
         align-items: center;
+        align-self: flex-end;
 }
 
 .hero-btn-link:hover,
@@ -170,6 +171,7 @@ img {
         letter-spacing: 0.02em;
         color: #434455;
         display: flex;
+        margin: 0 24px;
 }
 
 .subject {
