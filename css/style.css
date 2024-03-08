@@ -47,11 +47,12 @@ img {
 .header {
     display: flex;
         align-items: center;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+        border-bottom: 1px solid #e7e9fc;
 }
 .header-container {
     display: flex;
     align-items: center;
+    width: 1158px;
 }
 
 .header-navigation {
@@ -114,6 +115,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+
 }
 
 .header-address-link:hover,
