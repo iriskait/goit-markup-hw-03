@@ -132,6 +132,9 @@ img {
     display: flex;
     text-align: center;
     color: #fff;
+    margin-top: 188px;
+    margin-right: 472px;
+    margin-left: 472px;
     margin-bottom: 48px; 
 }
 
@@ -147,6 +150,7 @@ img {
         border-radius: 4px;
         align-items: flex-end;
         padding: 16px 32px 16px 32px;
+        margin-bottom: 188px;
 }
 
 .hero-btn-link:hover,
@@ -192,12 +196,15 @@ img {
     text-transform: capitalize;
     color: #2e2f42;
     display: flex;
+    margin-top: 120px;
+    margin-bottom: 72px;
 }
 .subject-list {
     display: flex;
 }
 .subject-item {
     background-color: #FFFFFF;
+    display: flex;
 }
 
 .subject-item-subtitle {
@@ -206,6 +213,7 @@ img {
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        display: flex;
 }
 
 .subject-item-text {
@@ -214,6 +222,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
         color: #434455;
+        display: flex;
 }
 
 .portfolio {
