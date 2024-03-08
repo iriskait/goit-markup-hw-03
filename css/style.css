@@ -15,6 +15,10 @@ p {
     margin-top: 0;
 }
 
+h2{
+    visibility: visible;
+}
+
 ul {
     list-style: none;
     list-style-type: none;
@@ -186,7 +190,7 @@ display: flex;
         display: flex; 
 }
 
-.features-content{
+.features-list {
     display: flex;
     margin: 120px 156px;
     gap: 24px;
