@@ -163,7 +163,7 @@ img {
     background-color: #404BBF;
 }
 
-.features-title {
+.features {
     font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
@@ -172,8 +172,9 @@ img {
         display: flex; 
         margin: 0 24px;
 }
-.features-wrap {
-display: flex;
+
+.features-content{
+    display: flex;
     margin: 120px 156px;
 }
 
@@ -187,10 +188,6 @@ display: flex;
         margin: 8 24px;
 }
 
-.subject-wrap {
-    display: flex;
-
-}
 .subject {
     background-color: #F4F4FD;
     display: flex;
