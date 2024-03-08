@@ -171,10 +171,7 @@ img {
         display: flex; 
         margin: 0 24px;
 }
-.container-features {
-    display: flex;
-    margin: 120px 156px;
-}
+
 .features-text {
     font-size: 16px;
     font-weight: 400;
@@ -241,14 +238,18 @@ img {
         text-align: center;
         text-transform: capitalize;
         color: #2e2f42;
+        display: flex;
 }
-
+.portfolio-list {
+    display: flex;
+}
 .portfolio-item-subtitle {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    display: flex;
 }
 
 .portfolio-item-text {
@@ -257,6 +258,7 @@ img {
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+        display: flex;
 }
 
 .headline {
