@@ -238,6 +238,7 @@ display: flex;
     border-radius: 0px 0px 4px 4px;
 }
 .subject-title-wrap {
+    display: flex;
      padding: 32px 0;
 }
 
