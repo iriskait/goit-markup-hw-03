@@ -129,6 +129,7 @@ img {
         height: 600px;
         display: flex;
         align-items: center;
+        padding: 188px 0 188px;
 }
 
 .hero-title {
@@ -144,6 +145,7 @@ img {
     margin-left: 472px;
     margin-bottom: 48px; 
     max-width: 496px;
+    
 }
 
 .hero-btn-link {
@@ -156,7 +158,6 @@ img {
         color: #fff;
         border-radius: 4px;
         text-align: center;
-        padding: 188px 0 188px;
         margin-bottom: 188px;
         display: block;
             min-width: 169px;
@@ -295,12 +296,10 @@ img {
      font-family: "Raleway", sans-serif;
        background-color: #2e2f42;
     padding: 100px 0;
-    }
-
-    .footer-wrap {
-        display: inline-block;
+    display: inline-block;
         margin-bottom: 16px;
     }
+
 .footer-logo {
              font-size: 18px;
              font-weight: 700;
