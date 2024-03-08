@@ -178,11 +178,15 @@ img {
         color: #2e2f42;
         display: flex; 
         margin: 0 24px;
+        padding: 120px 0;  
+        margin-bottom: 8px;
 }
 
 .features-content{
     display: flex;
     margin: 120px 156px;
+    gap: 24px;
+    width: calc((100% - 72px) / 4);
 }
 
 .features-text {
