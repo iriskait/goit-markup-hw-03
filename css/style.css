@@ -15,10 +15,6 @@ p {
     margin-top: 0;
 }
 
-h2{
-    visibility: visible;
-}
-
 ul {
     list-style: none;
     list-style-type: none;
@@ -230,6 +226,7 @@ display: flex;
     text-transform: capitalize;
     color: #2e2f42;
     display: flex;
+    margin-bottom: 72px;
 }
 
 .subject-list {
@@ -246,6 +243,7 @@ display: flex;
 .subject-title-wrap {
     display: flex;
      padding: 32px 0;
+    
 }
 
 .subject-item-subtitle {
@@ -255,6 +253,8 @@ display: flex;
         letter-spacing: 0.02em;
         color: #2e2f42;
         display: flex;
+        text-align: center;
+        margin-bottom: 8px
 }
 
 .subject-item-text {
@@ -264,6 +264,7 @@ display: flex;
     letter-spacing: 0.02em;
         color: #434455;
         display: flex;
+        text-align: center;
 }
 
 .portfolio {
