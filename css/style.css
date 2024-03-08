@@ -172,7 +172,6 @@ img {
 
 .features {
 display: flex;
-    margin: 0 24px;
     padding: 120px 0;
     margin-bottom: 8px;
 }
@@ -203,7 +202,6 @@ display: flex;
         letter-spacing: 0.02em;
         color: #434455;
         display: flex;
-        margin: 8 24px;
 }
 
 .subject {
