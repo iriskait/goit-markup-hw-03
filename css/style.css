@@ -123,6 +123,7 @@ img {
         display: flex;
         align-items: center;
 }
+
 .hero-title {
     font-size: 56px;
     font-weight: 700;
@@ -131,6 +132,7 @@ img {
     display: flex;
     text-align: center;
     color: #fff;
+    padding: 188px 472px;
 }
 
 .hero-btn-link {
@@ -143,6 +145,10 @@ img {
         color: #fff;
         display: flex;
         border-radius: 4px;
+        padding-top: 356px;
+        padding-right: 635px;
+        padding-bottom: 188px;
+        padding-left: 636px;
         align-items: center;
 }
 
