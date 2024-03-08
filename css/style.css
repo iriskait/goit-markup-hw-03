@@ -81,6 +81,8 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    padding: 40px 0;
+    display: block;
 }
 .header-menu-link:hover,
 .header-menu-link:focus {
