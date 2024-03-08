@@ -284,6 +284,12 @@ img {
        background-color: #2e2f42;
     }
 
+    .footer-wrap {
+        padding-top: 100px;
+        padding-right: 1020px;
+        padding-bottom: 100px;
+        padding-left: 156px;
+    }
 .footer-logo {
              font-size: 18px;
              font-weight: 700;
