@@ -140,9 +140,9 @@ img {
     display: flex;
     text-align: center;
     color: #fff;
-    width: 496px;
     height: 120px;
     margin-top: 188 auto;
+    max-width: 496px;
 }
 
 .hero-btn-link {
@@ -170,6 +170,7 @@ img {
 .features {
 display: flex;
     margin: 120px 0;
+    padding: 120px 0;
 }
 
 .features-title {
@@ -232,7 +233,8 @@ display: flex;
     text-transform: capitalize;
     color: #2e2f42;
     display: flex;
-    margin-bottom: 8px;
+    margin-bottom: 72px;
+    
 }
 
 .subject-list {
@@ -285,6 +287,7 @@ display: flex;
         display: flex;
         padding-top: 120px; 
         padding-bottom: 120px;
+        margin-bottom: 72px;
 }
 
 .portfolio-list {
