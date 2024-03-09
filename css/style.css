@@ -276,6 +276,7 @@ display: flex;
 .portfolio {
     display: flex;
       padding-top: 120px;
+    background-color: #F4F4FD;
 }
 
 .portfolio-title {
