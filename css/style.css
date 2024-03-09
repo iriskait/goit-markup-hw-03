@@ -307,6 +307,8 @@ display: flex;
     border-top: none;
     width: calc((100% - 48px) / 3);
     display: block;
+    height: 300px;
+    width: 360px;
 }
 
 .portfolio-item-subtitle {
