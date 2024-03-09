@@ -319,6 +319,8 @@ display: flex;
     color: #2e2f42;
     display: flex;
     margin-bottom: 8px;
+    height: 120px;
+        width: 360px;
 }
 
 .portfolio-item-text {
