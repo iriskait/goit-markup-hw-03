@@ -156,9 +156,8 @@ img {
     display: flex;
     text-align: center;
     color: #fff;
-    height: 120px;
     margin-top: 188px;
-    margin-bottom: 8px;
+    margin-bottom: 48px;
     max-width: 496px;
 }
 
@@ -186,7 +185,6 @@ img {
 
 .features {
 display: flex;
-    margin: 120px 0;
     padding: 120px 0;
 }
 
@@ -220,7 +218,6 @@ display: flex;
 
 .subject {
     background-color: #F4F4FD;
-    margin-top: 120px;
     text-align: center;
     padding: 120px 0;
 }
@@ -235,6 +232,7 @@ display: flex;
     display: flex;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
 
 .subject-list {
@@ -285,7 +283,7 @@ display: flex;
         text-transform: capitalize;
         color: #2e2f42;
         display: flex;
-        margin: 120px; 
+        padding-top: 120px;
         margin-bottom: 72px;
 }
 
