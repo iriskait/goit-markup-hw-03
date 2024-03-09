@@ -145,7 +145,7 @@ img {
         height: 600px;
         display: flex;
         align-items: center;
-        padding: 188px 0 188px;
+        padding: 188px 0;
 }
 
 .hero-title {
@@ -229,7 +229,7 @@ display: flex;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    display: flex;
+    display: block;
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px;
@@ -286,8 +286,7 @@ display: flex;
         letter-spacing: 0.02em;
         text-align: center;
         text-transform: capitalize;
-        color: #2e2f42;
-        display: flex;
+        display: block;
         margin-bottom: 72px;
 }
 
