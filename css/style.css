@@ -220,7 +220,6 @@ display: flex;
     background-color: #F4F4FD;
     text-align: center;
     padding: 120px 0;
-    width: 1158px;
 }
 
 .subject-title {
@@ -308,6 +307,7 @@ display: flex;
 .portfolio-item {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
+    border-top: none;
     width: calc((100% - 48px) / 3);
     display: block;
 }
@@ -345,7 +345,6 @@ display: flex;
     .footer {
      font-family: "Raleway", sans-serif;
        background-color: #2e2f42;
-       width: 1158px;
     padding: 100px 0; 
     }
 
