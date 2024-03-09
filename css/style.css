@@ -157,7 +157,8 @@ img {
     text-align: center;
     color: #fff;
     height: 120px;
-    margin-top: 188 auto;
+    margin-top: 188px;
+    margin-bottom: 8px;
     max-width: 496px;
 }
 
@@ -220,7 +221,6 @@ display: flex;
 .subject {
     background-color: #F4F4FD;
     margin-top: 120px;
-    margin-bottom: 72px;
     text-align: center;
     padding: 120px 0;
 }
@@ -234,8 +234,6 @@ display: flex;
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
-    display: flex;
-    margin-bottom: 72px;
 }
 
 .subject-list {
