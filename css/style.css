@@ -205,7 +205,7 @@ display: flex;
 }
 
 .features-content {
-    display: flex;
+    display: block;
     width: calc((100% - 72px) / 4);
 }
 .features-text {
