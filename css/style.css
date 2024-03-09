@@ -274,7 +274,8 @@ display: flex;
 
 .portfolio {
     display: flex;
-      padding-top: 120px;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .portfolio-title {
@@ -298,6 +299,7 @@ display: flex;
 .portfolio-text-wrap {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
+    border-top: none;
 }
 
 .portfolio-item {
