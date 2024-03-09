@@ -142,10 +142,7 @@ img {
     color: #fff;
     width: 496px;
     height: 120px;
-    margin-top: 188px;
-    margin-right: 472px;
-    margin-bottom: 48px;
-    margin-left: 472px;
+    margin-top: 188 auto;
    max-width: 496px;
 }
 
@@ -160,7 +157,7 @@ img {
         border-radius: 4px;
         text-align: center;
         display: block;
-        margin: 0 635 188 636px;
+        margin: 0 auto;
             min-width: 169px;
             height: 56px;
             border: none;
