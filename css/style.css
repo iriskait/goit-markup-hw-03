@@ -142,7 +142,7 @@ img {
     color: #fff;
     width: 496px;
     height: 120px;
-    margin-top: 188px;
+    margin-top: 188 auto;
 }
 
 .hero-btn-link {
@@ -303,7 +303,7 @@ display: flex;
     border: 1px solid #e7e9fc;
     border-top: none;
     width: calc((100% - 48px) / 3);
-    display: flex;
+    display: block;
 }
 
 .portfolio-item-subtitle {
