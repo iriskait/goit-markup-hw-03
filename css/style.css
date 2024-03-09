@@ -39,11 +39,26 @@ img {
     display: block;
 }
 
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
 .container {
     max-width: 1158px;
-        padding: 0 15px;
+        padding-left: 15px;
+        padding-right: 15px;
         margin: 0 auto;
 }
+
 .header {
     display: flex;
         align-items: center;
@@ -79,6 +94,7 @@ img {
     text-transform: uppercase;
     color: #4d5ae5;
     margin-right: 76px;
+    display: flex;
 }
 
 .header-menu-list {
@@ -183,19 +199,6 @@ display: flex;
         margin-bottom: 8px;
 }
 
-.visually-hidden {
-  position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: 1px;
-    border: 0;
-    padding: 0;
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
-}
-
 .features-list {
     display: flex;
     gap: 24px;
@@ -234,7 +237,6 @@ display: flex;
     color: #2e2f42;
     display: flex;
     margin-bottom: 72px;
-    
 }
 
 .subject-list {
@@ -260,7 +262,7 @@ display: flex;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
-        display: block;
+        display: flex;
         text-align: center;
         margin-bottom: 8px;
 }
