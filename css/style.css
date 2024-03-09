@@ -296,6 +296,7 @@ display: flex;
     gap: 24px;
     row-gap: 48px;
 }
+
 .portfolio-text-wrap {
     border: 1px solid #e7e9fc;
     border-top: none;
@@ -339,7 +340,7 @@ display: flex;
         color: #2e2f42;
     }
 
-    .footer {
+.footer {
      font-family: "Raleway", sans-serif;
        background-color: #2e2f42;
     padding: 100px 0; 
@@ -356,7 +357,7 @@ display: flex;
              color: #4d5ae5;
          }
 
-    .footer-logo-studio {
+.footer-logo-studio {
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
@@ -365,7 +366,7 @@ display: flex;
     color: #f4f4fd;
     }
 
-    .footer-text {
+.footer-text {
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
