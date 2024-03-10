@@ -143,8 +143,7 @@ img {
     background-color: #2e2f42;
         align-items: center;
         padding: 188px 0;
-        margin-left: 0 auto;
-        margin-right: 0 auto;
+        margin: 0 auto;
 }
 
 .hero-title {
